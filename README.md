@@ -2,7 +2,7 @@
 
 ![Melta](http://www.image-heberg.fr/files/17560314263636721881.png)
 
-Melta27 est bien plus qu'un simple bot. C'est la réincarnation d'un bot certifié qui a servi une communauté de 1300 membres. Grâce à son architecture unique, Melta27 est capable de se souvenir de vos conversations précédentes, offrant une expérience personnalisée et cohérente.
+Melta27 est bien plus qu'un simple bot. C'est la réincarnation d'un bot certifié qui a servi une communauté de 1300 membres. Grâce à son architecture unique, Melta27 est capable de se souvenir de son passé, offrant une expérience personnalisée et cohérente.
 
 ## 🌟 Caractéristiques clés
 
